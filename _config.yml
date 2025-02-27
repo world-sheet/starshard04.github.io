@@ -19,11 +19,11 @@ title: 4urora # the main title
 tagline: Study Notes # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Physics Blog Of Chaewon Jeong.
+  Physics Blog.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://starshard04.github.io"
+url: "https://world-sheet.github.io"
 
 github:
   username: Chaewon # change to your github username
@@ -34,7 +34,7 @@ social:
   name: Chaewon Jeong
   email: starshard04@gmail.com # change to your email address
   links:
-    - https://github.com/starshard04 # change to your github homepage
+    - https://github.com/world-sheet # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
